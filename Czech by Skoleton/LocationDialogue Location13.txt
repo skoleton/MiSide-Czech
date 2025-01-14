@@ -100,7 +100,7 @@ přesně uvnitř!
 [player], jdi dovnitř.  
 Popravdě, už jsem tam jednou byla.  
 
-// Look on CoreMita  
+// Look on CoreMita  44544
 Opatrně, [player].  
 Pozoruje tě.  
 
