@@ -1,0 +1,58 @@
+Spustit aplikaci
+
+Potvrzení přihlášení
+Nesprávné přihlášení
+Programy
+Zpět
+
+Správce virtuálních zařízení
+Serverové jednotky [Vyberte verzi]
+Monitorování hlavního procesoru [Vyberte verzi]
+Grafické monitorování procesů [Vyberte verzi]
+Quadrangle
+Konec hry
+
+
+Pokročilá správa systému
+Restartování postavy [Vyberte verzi]
+Restartování zařízení [Vyberte verzi]
+Aktualizace verze [Vyberte verzi]
+Přepočítání geometrie [Obecné]
+
+
+
+
+Obnovení systému
+Troubleshooting [Obecné]
+Antivirus [Obecné]
+Příkazová konzola [Obecné]
+
+
+
+
+Pokročilé funkce
+Odstranit objekt [Vybrat verzi]
+Zobrazení kamery [Vyberte verzi]
+Zobrazit spouštěče [Vyberte verzi]
+Nastavení fyzikálního enginu [Vyberte verzi]
+Získat flash disk
+
+
+
+Drobné funkce
+Editor binárního kódu [Zvláštní přístup]
+Unit Matrix Editor [Zvláštní přístup]
+
+
+
+
+
+Zadat verzi znaků
+Zadat index znaku
+Potvrzení restartu
+Použít páku
+Spustit podprogram
+Restartujte běžící proces!
+Příprava na restart
+Restartování...
+Potvrďte

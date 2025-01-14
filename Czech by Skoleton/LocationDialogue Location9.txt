@@ -1,0 +1,87 @@
+
+Hej, ty!
+Ahoj!
+Chceš odsud pryč?
+Tak mi pomužeš najít klíč!
+// Key Search
+Kurník! Ten klíč prostě zmizel!
+Tady nic—
+Prostě nikde není!
+Ah, mám ho!
+
+// The usual conversation
+Hmm, myslela jsem si, že budeš menší!
+Jsi velký—
+jako moje sestra!
+
+Tvoje sestra? Co s ní?
+
+Ano, moje sestra.
+Neříkej, že jsi ji nepotkal!
+
+Uh... asi... jo?
+
+Tak jsi blbý?
+
+Erm...
+
+Vypadá to, že jo...
+To je jedno, pomoz mi najít ten klíč!
+
+// Next work
+Šup.
+Dej to železo dovnitř!
+Děkuji!
+Teď mi podej to dřevo!
+Děkuji ti!
+Menší výpomoc tadyhle, prosím!
+Tak hotovo! A teď...
+Wow, prostě nádherné.
+Tady, zmáčkni to, no tak!
+Pozor...
+Tady, jen ber!
+Ten klíč, je jen tvůj!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Jsem ChibiMita.fbx!
+Hodně textového řádků,
+jednoduchý model, a—
+ze všeho nejlepší—nádherné vlasy!
+
+// Quest 2 (Have we seen each other yet?)
+Hlupáčku!
+Jsi docela cute, abych řekla,
+ale ptát se na takové blbé otázky.
+Takhle,
+tohle je poprvé, co tě potkávám!
+Ale poslouchej...
+Pokud tě už nikdy neuvidím,
+tak si mě napřej!
+
+// Quest 3 (Why are you here?)
+Ty to nechápeš?
+Tohle je kontrolní bod—
+zkouška tvého důvtipu!
+Ale no tak! >.<
+Jsem tu, abych vedla beznadějně ztracené!
+
+// Quest 4 (Why are you helping me?)
+A co tě dělá tak speciálním?
+Proč ti nepomoct?
+
+Co?
+
+Fakt hlupáček...
+Objevil jsi se tu jen tak!
+Nemáš tu vůbec být,
+tak proto ti pomáhám!
+
+Zase někdy, hlupáčku <3!

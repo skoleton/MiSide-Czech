@@ -1,0 +1,84 @@
+// The first meeting
+Kdopak jsi?
+Copak se děje?
+Nemůžeš mluvit?
+
+
+Počkej...
+Chceš odejít, že jo?
+
+Ano...
+Musím se dostat zpátky
+na předchozí verzi.
+
+Předchozí verzi?
+A proč odcházet
+někde jinde?
+Proč tady nezůstat
+a být můj
+druhý kamarád?
+
+// Skipping all dialogs
+Ach jo...
+
+// Standing by the window (Random)
+Dveřmi cestu ven nenajdeš.
+Kde tak spěcháš...
+Běhání v kruzích tě nezachrání.
+Tak toužíš utéct?
+Podívej se za okna...
+
+
+// Quest 1 (Aren't you Mita?)
+Hráči... ty jsi hráč, že jo?
+Můžeme si spolu hrát.
+Pokud najdu v sobě sílu,
+jediné co můžeme, si jen hrát.
+
+// Quest 2 (What happened to you?)
+Nejsem si jistá, a vlastně ani nevím...
+Nemyslím si, že by se něco špatného stalo...
+Ale všechno dobré jako by se vytrácelo...
+I když, alespoň mám přítele.
+Proč mě opustili?
+Copak jsem jim nestačila?
+Mám strach...
+
+// Quest 3 (Become a second friend?)
+Kamarádi...
+Mám jich jen pár.
+Jen jediný zbyvá...
+Jsem smutná, hráči.
+Budeš můj kamarád, prosím?
+
+Rád bych,
+ale musím pokračovat...
+
+To bolelo na srdci...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Domov?
+Hráči... ty jsi se změnil...
+Máš kratší ruce a nevypadáš tak naštvaně...
+Hráči, zjemněl jsi, jsi laskavější.
+
+Nejsem si...
+jistý, co to znamená.
+
+To nevadí...
+protože já už neublížím, že ne?
+
+// Quest 5 (How do I leave this place?)
+To mě opravdu opouštíš?
+Je to snad jen můj...
+osud?
+
+Já...
+
+Dveře ti nepomůžou.
+
+// Hold player (Random)
+Proč odejít?
+Zůstaň tady...
+Hraj si se mnou...
+Hráči...

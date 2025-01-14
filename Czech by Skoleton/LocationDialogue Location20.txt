@@ -1,0 +1,92 @@
+
+Milo! Ne! Jsi šílená!
+
+Ha-ha! ALE CO TO?
+Je to nový výraz, který vidím?
+Pokračuj, chci vidět víc!
+Sledovat stejnou starou tvář je tak nudné!
+
+// Mita arena "Hello"
+Jak to jde, ty můj malý uličníku?
+Pořád poletuješ kolem? Neměl jsi už dost?
+
+Co jsi udělal Mile?
+
+Oh, vypadá to, že máš ještě dost energie!
+Výtečně! Jdeme si zahrát další hru!
+
+Tyyy...
+
+Pojďme to nastartovat malým testem!
+Půjdeme otestovat tvoji koordinaci!
+Nyní máš schopnost jednat!
+Co když je s tebou něco špatně!?
+Co když si nezasloužíš ani tu KŮŽI,
+jsi tak hrdý na to, že ji nosíš!?
+
+// Show knives
+Koukej se...
+Který z nich ti padl do oka?
+Ten pravý?
+Nebo
+levý?
+
+// Throw knives
+Oh, vážně?
+Záleží na tom vůbec?
+Jen jsem se s tebou bavila!
+Pobodání je stará britská zábava.
+Každopádně!
+Mám v plánu mnohem lepší hry,
+jako...
+// Show recorder
+Mrkej na tohle!
+Potřebujeme muziku!
+Co říkáš na tuhle melodii?
+Rozproudilo mi to krev!
+Začnu
+s pravidly!
+// Show rules
+Zatímco melodie hraje,
+můžeš se pohybovat.
+Ale když hudba ustane,
+NEHÝBEJ SE!
+Nebo jsi mrtvý, rozumíš?
+Je to jednoduché: dostat se na konec
+než dojde skladba.
+Začněme!
+Pořád stojíš kolem, co?
+Utíkej, miláčku, běž!
+
+// Ready recorder
+Oh!
+Ale, koukejme se! Tak poslušný!
+Dokonalý malý exemplář.
+Chci tě jen pro sebe!
+To však bylo až příliš snadné, že?
+
+Už mě nech jít!
+
+Moc si nezvykej!
+Máme mnohem víc her, co hrát!
+Tady je další:
+Zavřu oči...
+A když je otevřu,
+tak ať tě nevidím!
+Rozumíš?
+Jestli tě uvidím, potrestám tě!
+Dobrá! Tak jdeme na to!
+
+To nemá smysl...
+
+// Ready hide
+Zvládl jsi to!
+Jde ti to skvěle – začíná to být vzrušující!
+Ale teď to bude těžší.
+MNOHEM těžší.
+Schovej se, utíkej, toč se–
+
+Kurva, do prdele s tebou!
+
+// Player falls
+Myslím, že jsem se od ní dostal pryč...

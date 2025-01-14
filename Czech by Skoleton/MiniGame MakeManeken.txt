@@ -1,0 +1,34 @@
+Požadavky
+Verze
+Počet kostí
+Žádná entita nenalezena. Skenování nutné!
+Skenování dokončeno
+
+
+
+
+
+
+
+
+
+
+// Konec tutoriálu
+Jupí!
+Dokázal jsi to!
+
+// Tutoriál
+Tak co tu vlastně dělám?
+Musím se dostat na tvou obrazovku...
+Takže...
+Tak!
+Musíš se ujistit, že tento prototyp je ten správný.
+Nejdříve ho oskenuj.
+Teď zkontroluj verzi a kostru.
+Vezmi data tohoto prototypu a porovnej je se standardní verzí.
+Je to perfektní shoda! Teď zkontrolujeme emoce.
+Exemplář úspěšně projevil emoce! Čas otestovat chování.
+Dobře, vše jsme zkontrolovali a vše sedí! Teď zvedni páku nahoru.
+Hurá! A teď je na tom kůže! Podej jí krabici s oblečením.
+Hotovo! Vidíš ty světla nahoře? Jedno z nich se rozsvítilo zeleně, což znamená, že jsme to udělali správně!
+Teď jsi na řadě! Vrátím se, až se všechna světla rozsvítí zeleně. Hodně štěstí!

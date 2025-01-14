@@ -1,0 +1,6 @@
+Podívej se kolem.
+Najdi požadované věci a polož je na skener.
+Naskenuj věci a zapni stroj.
+Běž k hlavnímu vypínači u hlavních dveří.
+Najdi a vrať ztracené baterie do stroje.
+Zapni stroj.

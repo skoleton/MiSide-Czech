@@ -1,0 +1,150 @@
+
+Mito?
+
+Jak jsi se tu dostal?
+
+Jsi Mita, že jo?
+Ale vypadáš jinak...
+
+Všímavec, no jo.
+A ano.
+Já nejsem ta Mita, co jsi potkal.
+Dej si na ni pozor, není s ní něco 
+v pořádku.
+
+No, to už vím taky.
+
+Potřebuji pomoc:
+Jestli tohle vyjde, pak si popovídáme.
+Přines mi ten klíč. Je vedle gauče.
+
+No jakoby...
+
+Prosím, pak si popovídáme!
+Dej mi ten klíč.
+Vem si tenhle prsten.
+Eh?
+Chceš odtud, není tak?
+Uhm, jo...
+Tak si ho nasaď.
+Je to užitečný artefakt,
+a budeš ho potřebovat.
+
+Dobrá...
+A jo, já jsem 
+[player].
+
+Mmm,
+[player].
+Já... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Vidíš tu konzoli?
+Vem ji.
+
+To se dívám na záznam?
+A kdo je to s ní?
+
+To se děje právě teď.
+A to je hráč.
+Využívá ho.
+A pokusí se 
+tě změnit v kazetu taky.
+
+Musím jít odtud, a to kurva rychle.
+A ty taky.
+
+Ano, to musíme.
+
+Takže, ty říkáš,
+že ho využívá.
+Když vytáhnu kazetu, co se stane?
+
+Může to velmi
+zničit kazetu.
+Což znamená...
+že ten hráč umře.
+
+...
+Co když to jen vypnu?
+
+To může fungovat...
+Stojí to za pokus. Je tam červené tlačítko!
+Vidíš ho?
+Jo, mám ho.
+Zmačkní ho.
+
+// MitaKind quest 2
+Musím zůstat.
+Mám otázky, na které se ji musím zeptat,
+abych zjistila víc o ní.
+Ale, nejspíš hrát "hádej, kdo jsem" asi nebude...
+
+// MitaKind quest 3
+Abych ti řekla pravdu, tohle je moje verze.
+Dělala jsem hráči společnost,
+když se najednou všechno změnilo.
+Poté se objevila ona...
+a hráče změnila na kazetu
+a zamkla mě tady.
+
+Počkej, na kazetu?
+To jako dokáže?
+Ale proč?
+K čemu potřebuje hráče?
+
+Protože je evidentně magor...
+Prostě si s námi hraje, a používá nás na nějaký svůj výtvor!
+Dělá z hráčů kazety...
+Někteří vůbec nechápali, co se jim děje...
+A ti, co jo, se vůbec nesnažili utéct... Gah!
+Tak to je hodně zvrácené...
+Musíš nám pomoct!
+Já? Ale jak?
+Potřebuji tě!
+Jestli nám pomůžeš, pomůžu já tobě!
+To bude naše jediná šance.
+Ten prsten tě zavede do správné verze.
+Budu tam na tebe čekat.
+
+// MitaKind quest 4
+Stále to nějak nechápu,
+co jsem právě viděl nahoře...
+Ta Mita...
+Snažila se mě zabít?
+
+Zabít?
+Má s tebou jiné úmysly, než tě jen zabít...
+Musíš si pospíšit.
+
+// Hide!
+Oh, kurva! Schovej se!
+Počkej, co...?
+Rychle, už jde!
+Následuj prsten—pomůže ti do bezpečí!
+
+
+Ale, ale, tak co, řekneš mi, kde je?
+
+A proč jako?
+Nezabiješ ho, že ne?
+
+Ah, takže mi nic neřekneš.
+Hah, já miluji výzvy.
+Já vím, že tu někde je.
+
+Proč jsi na nás tak hnusná?
+Neřekneš mi vůbec nic!
+A vůbec...
+K čemu potřebuješ hráče?
+Nejsou to hračky!
+Co se to s tebou děje?!
+
+Dost! Drž už hubu, loutko!

@@ -1,0 +1,16 @@
+// Quest none
+Raději nic.
+// Quest "First Mita"
+Ty jsi Mita?  
+Co když chci jít zpátky?  
+Jak jsem se sem vůbec dostal?  
+// Quest "Kitchen eat"
+Tvůj dům je příjemný.  
+Kdy budu moct jít domů?  
+Připadá mi tohle všechno jako sen…  
+Proč z oken svítí jen bílé světlo?  
+Proč nepoužít nůž místo nůžek?  
+Bon appétit!  
+// TV
+Dobrej džus!  
+Dost silný džus!!!

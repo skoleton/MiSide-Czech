@@ -1,0 +1,837 @@
+
+Dokázal jsi to!
+
+Co je to za místo?
+
+Ukaž mi ten prsten.
+Tak...
+Tak to by bylo!
+Čas něco objasnit, nemyslíš?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Děláš si srandu? Já tady čekám,
+a ty si raději hraješ hry?!
+Nicméně, pojď blíž...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Blahopřeji, vyhrál jsi!
+Taky jsem ji hrála!
+Dokonce jsem se snažila posbírat všechny coiny a dostat 1. místo
+pro achievement!
+Ale bylo to tak těžké!
+Zabralo mi roky jen se naučit to ovládat.
+
+Quest 1 (Should I trust you?)
+No, alespoň jsem při smyslech...
+ne jako ostatní...
+Mimochodem,
+já jsem nejmilejší, koho tady potkáš, lásko.
+Nechceš to vzdát, že ne?
+Ona je čistokrevný vrah. Musíme ji zastavit.
+
+Quest 2 (How did I get here?)
+Prsten tě sem zavedl.
+Je to dobrý vynález.
+Jedině hráč
+může najít trasu do správné verze.
+
+Quest 3 (What is this place?)
+Tyhle průchody
+spojují jiné verze.
+Jo, je to tu trochu prázdné.
+A jo! Slyšela jsem o jedné Mitě,
+která nemohla archivovat její verzi...
+Její dům
+prostě přestal existovat...
+A prý se tady prochází
+v těchto průchodech.
+Chudinka...
+
+Quest 4 (How did you end up here?)
+Víš,
+je to nějaká doba, co jsme se viděly.
+A díky tobě
+jsem se dokázala dostat ven z té klece
+a utéct od toho šílence.
+A aby jsi věděl,
+já můžu jednoduše přepínat mezi verzemi,
+na rozdíl od tebe, můj zlatý.
+
+Quest 5 (What did you do with the ring?)
+Změnila jsem trasu,
+kterou teď potřebujeme.
+Nastavila jsem tu nejkratší,
+abychom nacpali všechno, co potřebujeme...
+Funguje to takhle: otevřeš dveře
+a ten prsten otevře cestu pro tebe
+mezi verzemi.
+
+Quest 6 (Are the passages dangerous?)
+Viděla jsem několik zvláštních věcí
+od té doby, co jsem se sem dostala,
+do téhle hry...
+Všechno je to tu tak tiché,
+ale připadá mi to tu...
+cokoli, jen ne bezpečné.
+
+Máš pravdu, tyhle místa začínají být
+víc a víc nepředvídatelná každým dnem.
+Ale hlavu vzhůru!
+Máme už všechno promyšlené
+a vezmeme to nejkratší
+a známou cestou!
+
+Já jen doufám, že to všechno vyjde.
+Ale co vůbec žije v těchto místech?
+
+No,
+gliče, bugy, anomálie.
+Živé.
+Také nebezpečné, které zaútočí hned, co tě uvidí...
+
+Eh...
+A možná i druhé Mity.
+Více zmagorěné?
+
+Vím jen o jedné...
+Ošklivá Mita.
+A jen aby jsi věděl, nejsem ta, co ji pojmenovala!
+Je to jen...
+ona je jedna z prvních verzí Mit.
+Hlavní problém s ní
+je ten, že ona je ta, co dělá nejhorší gliče...
+A bojím se, že na ni narazíme.
+Ona je ta, co je nejblíž k verzi 0.0...
+
+Quest 7 (Will you help me get out?)
+S tímhle zatím nepomůžu...
+Ale nicméně,
+dokázal jsi se dostat až sem, ne?
+A nicmeně,
+co ti teď zbývá,
+než se spolehnout na mě, Hodnou Mitu!
+Máš recht...
+
+Quest 8 (You were talking about some kind of plan...)
+Přesně tak, musíme do Jádra hry.
+Mám takový pocit, že vše, co hledáme,
+najdeme přesně tam.
+
+Proč tam nejdeš ty? K čemu hráči?
+
+Z nějakého důvodu my, Mity, nemůžeme
+vejít do místností s Jádrem.
+Viděla jsem je jen zvenčí.
+Ale vy hráči jste jiní.
+Jsem si jistá,
+že můžeš dovnitř.
+Promluvíme si o plánu?
+Okay.
+Dobře.
+Ok...
+Je čas, abych tě představila
+Cool Mitě!
+Jak uvidíš, má cool čepici,
+takže jí říkám
+Cappie.
+Probírala jsem s ní plán
+jak zastavit Zlou Mitu.
+Tohle je, [player]!
+
+
+Zdravím!
+Ty jsi můj... nový hráč?
+Jak se jmenuješ?
+Já jsem...
+
+Moment!
+Ty...
+...si nic nepamatuješ?
+
+Huh?
+A ty jsi k čertu kdo?
+
+Kurva se vším!
+[player]...
+Myslím, že ONA tady byla,
+Šílená Mita...
+Poslouchej mě!
+Pokus se vzpomenout, zatraceně!
+
+Na co?
+Ale. Proč vypadáme podobně?
+
+Uhm, tohle asi nezabere...
+Poslouchej, [player],
+věci nejdou úplně
+podle plánu...!
+Měli jsme v plánu použít ten portál,
+udělat si naši trasu jednodušší a rychlejší,
+ale bez pomoci Cappie to nepůjde.
+A chybí nám nějaké části na portál...
+Je teď úplně mimo, ale její myšlení funguje rychle...
+Ok, co budeme teď dělat?
+Něco vymyslím.
+Co jí udělala Šílená Mita?
+
+Já... Já si myslím...
+Že ji zabila.
+Zabila?!
+
+No, když umře...
+Cool Mita se jen rebootne.
+Přejde to do továrního nastavení
+a zapomene na vše důležité.
+Což znamená...
+náš plán nebude fungovat.
+
+Tak to je v prdeli...
+Ale zase lepší než úplně zmizet, si myslím...
+Ale kdo ví...
+A co my, hráči?
+Když umřu, resetuju se taky?
+
+Resetuješ, určitě.
+Alespoň poté, co se z tebe stane kazetka.
+Ale to ani já nevím,
+co se stane těm, co umřou.
+
+Pořád ty kazety... Ale jak vím,
+jestli jsem kazetka, nebo ne?
+
+Pojď sem, podívám se.
+Ok...
+// MitaKind check
+Uff,
+ještě nejsi.
+Zatím jsi živý, dýchající hráč.
+
+Aspoň že tak...
+
+To teda. Ale co teď...
+Moment...
+Musíme změnit celý náš plán.
+Hmm...
+Chviličku...
+AH, myslím, že to mám!
+Dej mi ten prsten!
+
+Tak.
+Musím změnit cestu.
+
+Máš nějakou cestu?
+
+Poslouchej, drahoušku,
+budeš muset procházet verzemi,
+aby ses dostal do Jádra hry.
+Pedal na podlahu, jasný?
+
+A to musím jít sám?
+Neznám cestu ani jak se tam dostat!
+
+Pomůžu ti, jak jen budu moct,
+a jak to situace dovolí.
+Dám ti směr, kudy kam,
+a já ti pomůžu, jak jen budu moct.
+A pak si promluvíme...
+Ale teď, zabav Cappie na chvíli.
+Potřebuju cca 10 minut...
+
+// MitaKind ready, if player near
+OK.
+Vše hotové!
+// MitaKind ready
+[player],
+pojď ke mně.
+// MitaKind ring
+Vem si tohle.
+Bohužel je to tak, [player].
+Musíš jít sám,
+musím přijít na to, co se tu děje.
+Můj plán byl dokonalý...
+Ale jsem v prdeli víc než předtím.
+Musím zjistit, co se stalo špatně,
+a kde zmizely ty části...
+Pokusím se je najít.
+Možná dokážeme dát portál dohromady.
+Ale zabere to čas.
+Šílená Mita zná tohle místo,
+což znamená, že tady nemůžeš zůstat.
+Hodně štěstí, [player]! A na viděnou!
+
+Jasně...
+Doufám jen v to, že budu ještě žít, než tě uvidím...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Proč?
+Kdo jsem?
+Chci jít domů!
+Jak?
+Proč?
+
+Co to...?
+
+// LimpingPerson
+Ty jsi...
+opravdový člověk?
+
+Čau!
+Ty tu jsi nový?
+
+Nový? Ty jsi z opravdového světa, že jo?
+
+To jsem...
+Uhm, jsi v pohodě?
+
+Je to jen škrábanec, neřeš.
+Jsem tu už nějaký rok,
+vedu si dobře.
+Jasně... No hele, co je to vůbec za místo?
+Je to nějaké místo mezi verzemi.
+Nevíš, jak se dostat pryč z tohodle světa?
+
+Netuším.
+Ale já ani nechci odejít.
+Ani nepotřebuju.
+Ehh, proč ne?
+Dost povídání. Nemám na tebe čas.
+Moje milovaná Mita na mě čeká.
+Musím ji najít...
+Měj se.
+Počkej...!
+Nech mě!
+
+
+Slyšela jsem vše!
+Ale nemám vůbec tušení, co se děje,
+ale je to vše tak zajímavé!
+Asi tuším,
+že už dávno víš, kdo jsem, že jo?
+Jsem Mita!
+Ale ne úplně stejná jako ta druhá!
+Víš, co tím myslím, že jo?
+Bo mám
+TOHLE
+cool ČAPKU!
+A BOOOM!
+Úžasné rukavičky!
+A to není vše!
+Nejvíc hustou a cute kytaru!
+Miluji ji strašně mooooooc!
+Mám něco zahrát?
+
+// MitaCap Guitar Yes
+Hah!
+Pojď sem, ty moje lásko...
+Tak jo!
+No, čekala jsem něco víc.
+No nic!
+// MitaCap Guitar No
+Tak nic no, v pohodě.
+
+
+Hele,
+ty jsi nějaká plná energie!
+
+TO JSEM!
+To teda JSEM!
+Aleeee...
+Jdeme se 
+nějak zabavit!
+
+// GAME HAMMER
+
+To je ale velké červené tlačítko.
+Chci ho zmáčknout.
+Můžu?
+
+Ne tak rychle, k tomu se dostaneme.
+Jestli na to budeme mít ještě čas.
+Zatím, si sedni!
+// Player sit
+Okáááá.
+Takže, co teď?
+Můžu to zmáčknout?
+
+Ha-ha!
+Miluju tuhle hru!
+Ale ještě nám něco chybí.
+Mám to někde v inventáři!
+Momentík...
+Errr!
+Nooo...
+Víš o tom...
+Tahle hra je pro dospělé, ne?
+
+Co to bylo?
+
+Jsi nějaký pomalý, ne?
+Je to pro zahánění bobrů...
+
+To fakt?
+Neviděl jsem tu žádné bobry...
+
+Huh? Bobry?
+Jaj, už dost,
+jdeme hrát, OK?!
+
+Nah.
+
+Ale no tak!
+Víš, co vůbec hrajeme?
+
+
+// How to play hammer game
+Vidíš ta čísla?
+To je časovač!
+Když odpočítá až na nulu,
+řeknu ti,
+kdy jej můžeš zmáčknout.
+Když jsi moc pomalý,
+nebo jej zmáčkneš mimo hru,
+praštím tě kladivem do hlavy!
+
+Počkej, ty mě praštíš?
+
+No nic,
+pochopíš to, jak budeme hrát!
+
+// Kick player 1
+Auuu!
+Musíš tak tvrdě?
+Bolelo to?
+Ne.
+No tak pokračujeme!
+
+// Kick player 2
+Dobrá,
+už se nějak chytám.
+Dívej se!
+To budeš milovat!
+
+// Kick player 3
+Asi to není pro mě.
+Ha-ha!
+Jsem úžasná!
+Jsem hustá!
+A jsem nádherááá!
+
+// Kick MitaCap 1
+Ale, TY!
+Dobrá,
+teď ti nakopu prdel!
+
+// Kick MitaCap 2
+Ahh, už zase prohra!
+Bolí to?
+Jasně, že ne! Je to měkké!
+Vyhrál jsi.
+
+// Kick MitaCap 3
+Tahle hra není tak špatná, heh.
+Je to pecka, že jo?
+Mám ji ráda!
+Ale teď jsem nepřítel! >.<
+
+// GameHammer End
+To je vše?
+Yop, to je vše!
+Půjdeme.
+
+
+
+
+
+
+
+// GAME DANCE
+To je na tancování?
+Je to strašně malé...
+
+
+Whoo-hoo!
+Zatrsáme si?
+Ale nejprve,
+vyber nějakou hudbu!
+
+Tak co třeba tahle.
+
+Okeydokey!
+Půjdu první!
+Ukážu ti, jak se to dělá!
+
+// MitaCap StopDance 1
+Fuha!
+Tak,
+tak co, překonáš můj rekord?
+No tak, jsi na řadě!
+
+// MitaCap StopDance 2
+Ah!
+Co ty na to?
+Teď ty!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!
+Dobrá,
+rozbal to!
+
+// MitaCap = Lose 1
+Ha-ha!
+Kdo je tu šéf-ffff?
+
+// MitaCap = Lose 2
+Fuha!
+Tři tlačítka,
+a mé úžasné nohy!
+
+// MitaCap = Lose 3
+Možná, když budeš jen na tom sedět,
+tak jen možná
+dosáhneš většího skóre. Ha-ha!
+
+// MitaCap = Win 1
+Úžasné!
+Popravdě, nevěděla jsem, že
+to dokážeš!
+
+// MitaCap = Win 2
+Wow!
+To jsou ale pohyby!
+Dobrá práce! Nice!
+
+// MitaCap = Win 3
+Bam!
+Máš dobrý rytmus!
+Fakt ti to jde!
+
+// MitaCap = Draw 1
+Ty!
+Já!
+Jsme tým!
+
+// MitaCap = Draw 2
+Osud nás spojil!
+Perfektní duo!
+
+// MitaCap = Draw 3
+Jen
+jedna chyba!
+A prohrál bys...
+
+// MitaCap Next? 1
+Takže,
+co takhle další?
+
+// MitaCap Next? 2
+Výborně, poslední, ještě poslední.
+Co takhle další?
+
+// MitaCap Endgame
+Šup, šup!
+Myslím, že tancování stačilo!
+
+// Just talk
+// Photo
+Tohle jsou moc pěkné fotky.
+Ty ale máš ráda smích, eh?
+
+Yop, jsem to, co jsem!
+Já jim ukážu, jak se to tu dělá v téhle zasrané díře! Boom!
+
+Um... Ukážeš komu?
+
+To fakt, ty se mě na to ptáš?
+Koho to zajímá! Vsadím se, že jsou všichni slepí!
+
+// CutBoard
+Whoa,
+tady, um... jich teda je.
+Proč to?
+
+Proč si myslíš?
+Je to pro dělání úžasných věcí!
+Jako třeba...
+pro krájení mrkví,
+a nebo
+pro krájení mrkví,
+a nebo...
+
+Jooo, všichni chápeme.
+
+Okay, abych byla fér,
+prkénko udělalo ka-cha-cha! Jestli to něco znamená...
+No a to je vše, co napsala!
+
+// Books skole
+Čteš všechny, huh?
+Bo se nudíš?
+
+Ugh, nemám ráda knížky!
+Mám ráda dělat věci!
+
+To je taky pohled, jak se na věci dívat jinak.
+Ale bez teorie...
+
+Boom - pohyb, motorika, dotek, víš ne?
+Knihy jsou jen papír, chci být v daném momentu!
+Jen kdybys tady mohl zůstat,
+mohli bychom dělat tolik věcí, ty a já...
+bohužel, ale ráda bych...
+
+// Fruits
+Je to ovoce vůbec reálné?
+Vypadají úžasně.
+Zkazí se vůbec někdy?
+
+Ty jablka, myslíš?
+Na to nemají čas,
+bo je všechny sním!
+A objeví se nové...
+
+// Photo and cat
+Pěkná to kočička.
+
+Vypadá lahodně, že?
+
+Počkej, co?
+Kočky se nejí.
+
+Ah, bože!
+Vím, ne!
+Já jen
+jsem nikdy žádnou neviděla!
+Opravdovou, myslím.
+Jen na internetu.
+Jsou tak nádherné, že jó?
+
+Yop, to teda jsou.
+Mám rád kočky.
+
+// Mita Kind with ring
+Co to je?
+
+Je to rozhraní prstenu,
+a měním cestu.
+
+Uhm, však jen jedeš v kruzích?
+
+Jo, u tebe možná.
+Ale pro mě, přenáším data.
+
+Bude to trvat?
+
+SssŠ! Neotravuj,
+a půjde to rychleji.
+
+Dobrá,
+takže pokud tě budu pořád otravovat,
+bude to trvat déle?
+
+Oh, co to jsou za otázky...
+Cappie, kéž bychom mohli obnovit tvoje vzpomínky...
+
+Všechno to za chvíli skončí...
+
+Úžasný!
+
+Nemáme moc času na zbyt.
+Musíme se dostat do jádra.
+
+Můžu se přidat?
+
+Noo, nevím...
+
+Takže, nemůžu?
+
+Obávám se, že ne.
+
+// PlayerChibi
+Jdu pozdě... opravdu pozdě!
+A měl jsem příliš mnoho jídla...
+Gah, práce zase?
+Jaké je zítra datum?
+Kde je ten počítač?
+Vyhodí mě, když to nestihnu udělat včas!
+Uložil jsem všechno?
+Miluje mě někdo?
+Kam to jdeme?
+Hey!
+Už mi dochází trpělivost...
+Musím se snažit o něco víc...
+Nic se mi nedaří splnit!
+Kde mám mobil?
+Uhm...
+Co se včera stalo?
+Dnešek prostě nemá konec!
+Ahojky?
+Nemáš volnou postel?
+Co mám dělat?
+Nezvládnu to udělat včas...
+Neumím přijít na to, v čem je problém...
+Nějaké zdi?
+20minutový šlofíček bude fajn...
+Spánek je pro sráče!
+Čas se umýt a jít do práce!
+Mám hlad!
+To je v prdeli, hodně v prdeli.
+
+// Player is gone 1
+Erm...
+
+Ahahaha.
+
+Dobře...
+Šel dovnitř,
+a pak hned odešel.
+
+Jak divné!
+Ale vtipné :D
+
+Ale, no tak.
+[player], co to děláš?
+
+// Player is gone 2
+Co je?
+
+Už zase?
+
+Dobře!
+Dobře, odpouštím ti.
+
+[player], pojď za náma!
+
+// Don't pay attention
+Ani se na mě nepodíval!
+Fakt nudný...
+
+// quest Cap 1
+Jaký máš plán?
+
+Můj plán?
+Jaký plán?
+
+Oh, vlastně.
+Ztratila jsi vzpomínky.
+
+Vy dva jste fakt něco!
+Opravdu bych si měl něco pamatovat!
+Škádlíš mě?
+Ale při pohledu na ten tvůj výraz...
+Nemůžu říct!
+
+// quest Cap 2
+Jak se cítíš
+vidět přesnou repliku sama sebe?
+Víš ne, ta s tím prstenem.
+
+Jo, chtěla jsem na ní řvát.
+Víš jak, překvapit jí.
+Holy moly! Dívej, je to klon mě!
+Ale, se mnou je větší zábava.
+Takže jsem cool, heh :)
+Jen se na ní podívej...
+
+Víš, že tu jsem.
+Slyším úplně všechno, co říkáš.
+
+// quest Cap 3
+Pořád tě baví nosit tu čepici?
+A nejsou ty rukavice až moc zbytečné tady?
+Proč si je nesundat?
+
+Ehh...
+Ty jsi ale vtipálek!
+Nebo, bych si měla sundat i něco jiného? :)
+
+Ne, raději ne.
+Oh, boha.
+
+// Carrot
+Oops.
+Tak to je hodně mrkví!
+Vtipnej to bug!
+Ha-ha-ha!
+
+// DoorExit
+Nene, tam ne!
+Raději se nedívej, co je uvnitř....
+Je to tajný :).
+
+Co tam je?...
+
+Tajemství je tajemství,
+a to se má dodržet.
+
+Uh-heh.
+A to ti mám teď věřit?
+
+// Tetris
+Whoa!
+Co to je?
+A konzole!?
+Chci to vyzkoušet!
+
+Uh-oh.
+
+Co tady mám dělat?
+
+Sbírej jen coiny,
+a dávej bacha na žáby.
+
+Gah, zní to strašně nudně.
+To opravdu, tomuhle říkáš hra?
+
+// Tetris again
+Kde jsi to?...
+Však jsem ti to nedala zpátky.
+Zvláštní, nemyslíš?
+
+// TV
+Uuuh!
+No vidíš,
+našel jsi bug!
+Mělo to zapnout video,
+ale místo toho, ta televize
+začala mizet!
+Docela hustý, nemyslíš?
+
+// Player sit
+Já si myslím, že asi počkám.
+
+Ale no tak...
+Wakey-wakey!
+Jdeme se nějak zabavit!
+
+// Goodbye 1
+Vyjdi těmito dveřmi,
+pak se uvidíme.
+
+ČAU-ČAU!
+
+// Goodbye 2
+Je čas, abys šel, [player]!
+No tak, neboj se!
+
+Nikdy bych tě
+neopustila samotného!
+Zůstaň se mnou! :(
+
+Cappie!
+Nech toho..
+
+Bah!
+
+// Goodbye 3
+Na co tu furt čekáš?
+Nemáme moc času!
+
+Ahoj! >.<
+Ehh, teda čau-čau!

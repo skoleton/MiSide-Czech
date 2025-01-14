@@ -1,0 +1,165 @@
+Nová hra
+Pokračovat
+Hlavní menu
+Odejít
+Nastavení
+Úspěchy
+Kredity
+Zpět
+Načíst lokace
+Jazyky
+Načítání...
+Grafika
+Zvuk
+Klávesnice a myš
+Ovladač
+Rozlišení
+Režim okna
+Grafické efekty
+Barevné efekty
+Měkké stíny
+Rozmazání
+Odlesky
+Anti-aliasing
+Stíny
+Kvalita zobrazení světa
+Programování
+Animace
+Zvukové efekty
+Hudba
+Částice
+Textury
+3D modely (98%)
+Scénář
+Obnovení
+Vpřed
+Zpět
+Vlevo
+Vpravo
+Interakce
+Citlivost myši
+Ukončit hru?
+Ano
+Ne
+Zpět do hlavní nabídky
+Plynulé zatáčení
+Nastavení hry
+Styl stínů
+Oblečení
+Rozhraní
+3D modely (2%)
+Hlasitost hlasu
+Pauza
+Nabídka
+Gratulujeme! Dokončili jste hru!
+Váš čas:
+Titulky
+Jas
+Vertikální synchronizace
+Uložené
+Postavy
+Postavy - Mity
+Postavy - kazetky
+Kazetky
+Mity
+Obnovení Hry
+Jste si jisti, že chcete úplně smazat veškerý svůj postup a začít od nuly?
+Kompilace shaderů, odhadovaná doba čekání: 2 hodiny.
+2 hodiny kompilace?! To je falešné! Přeskočili jsme pro vás!
+Vytvoření realistického sledování stínů - odhadovaná doba trvání 10 minut.
+Leda tak hovno, tyhle vymyšlené věci tady nepoužíváme.
+Umm...
+Jsme připraveni!
+Kolébání při chůzi
+Zobrazit nápovědy
+Hlas hráče
+Discord
+Přidán profil postavy
+Úhel kamery (FOV)
+Hlas
+Vypnuto
+Ruka se natáhne ke dveřím
+Animace
+Povolení hlasu hráče
+Mita
+Krátkovlasá Mita
+Milá Mita
+Mita s čepicí
+Malá Mita
+Ospalá Mita
+2D Mita
+Mila
+Strašidelná Mita
+Core Mita
+Duch Mity
+Chibi Mita
+Figurína Mity
+
+
+
+// Název místa načtení
+Jsem uvnitř hry?
+Konečně spolu
+Věci se stávají divnými
+Sklep
+Za hranicemi světa
+Smyčka
+Malá Mita
+figuríny a zapomenuté hádanky
+Chce jen spát
+Novely
+Čtení knih, ničení bugu
+Utíkej a schovej se!
+Stará verze
+Buď kandidátem
+Restart
+Cappie
+Duch Mity
+Skutečný svět
+Opusťte jádro!
+Hráč 1
+Hráč 2
+Hráč 3
+Hráč 4
+Hráč 5
+Hráč 6
+Hráč 7
+Hráč 8
+Hráč 9
+Hráč 10
+
+Mírový režim
+Tento režim je stále ve vývoji! Je tak rozsáhlý, že ho vývojáři ještě nestihli dokončit. Ale nebojte se - slíbili, že bude zahrnut do velké aktualizace, která se chystá již brzy. A podívejte se na sebe, už teď jste odemknutím přístupu předběhli dobu! Teď už zbývá jen čekat...
+Co je to Mírový režim? Je to vaše šance znovu se spojit s Mitou úplně jiným způsobem! Bude nadmíru spokojená, že s vámi může trávit více času, od rána do večera, ve světě překypujícím zábavou a překvapeními. Očekávejte srdečné rozhovory mezi čtyřma očima, sdílení sušenek, hraní her a spoustu veselých společných chvilek.
+
+
+Cenzura gore
+Zvláštní poděkování:
+Ikona úspěchu: Iceсloud
+Fotografie: Nineko Hori
+Překladatel:
+Převede text hry do jiného jazyka.
+Vydavatelský partner
+Marketing hry
+Tester
+Hrál a nacházel nejrůznější chyby.
+Tento jazykový překlad vytvořili nadšenci z komunity fanoušků a na jejich žádost jej do hry přidali.
+Pozor! Tato hra obsahuje lekačky, náhlé ostré zvuky a občasné blikání obrazovky. Hráčům s fotosenzitivní epilepsií, srdečními potížemi nebo podobnými zdravotními problémy doporučujeme hru nehrát.
+Klidový režim je nyní k dispozici!
+
+Fotografický režim
+Foto režim: Omezení letu kamery odstraněno. Můžete prozkoumávat běžně nepřístupné oblasti.
+Ukončení fotografického režimu
+Skrytí rozhraní
+Podržením posouváte kameru
+Rychlý pohyb
+Plynulý pohyb
+Rychlost
+Efekty
+Ovládání herního času
+Jas
+Kontrast
+Vinětace
+Snímek obrazovky pořízen!
+Přístup do složky snímků obrazovky
+Úhel kamery

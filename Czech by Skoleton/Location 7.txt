@@ -1,0 +1,19 @@
+// Track names  
+Cracker  
+Bubble Drink  
+Balloon  
+// Quest none  
+Raději nic.  
+// Quest "Meeting Kind Mita"  
+Měl bych ti věřit?  
+Jak jsem se sem dostal?  
+Co je to za místo?  
+Jak ses sem dostala ty?  
+Co jsi udělala s tím prstenem?  
+Jsou ty průchody nebezpečné?  
+Pomůžeš mi utéct?  
+Zmínila jsi plán.  
+// Quest MitaCap  
+Pamatuješ si něco?  
+Co si myslíš o té druhé Mitě?  
+To pořád nosíš tu čapku?

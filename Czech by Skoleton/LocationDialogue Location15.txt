@@ -1,0 +1,221 @@
+
+Tady jsi!
+Proč jsi opustil to jádro?
+Říkala jsem ti, že máš počkat!
+
+Trvalo ti to až moc dlouho...
+
+No, dobrá...
+Myslím, že jsem něco našla...
+Podle mě je to ten index...
+Uvidíme, jestli to bude fungovat!
+Jdeme odtud.
+Šílená Mita...
+Myslím, že je zaneprázdněná s novým hráčem.
+Takže doufám, že bude na delší dobu...
+
+Mito?
+Čekej na mě.
+
+
+Ale, nezapomněl jsi na něco?
+Tady, jen se zase pozdravte!
+
+Mito...
+
+Chytej!
+
+
+Proč, kurva, PROČ...
+
+Kdo pak jsi?
+
+Ty... ty žiješ!
+Nepamatuješ si?
+
+Známe se?
+
+Co teď...
+Co mám teď, kurva, asi tak dělat?!
+Jak se odtud do prdele dostanu...
+
+Co myslíš tím "odtud"?
+
+Počkat...
+To je ten prsten...
+A tohle?
+
+Nemám vůbec tušení.
+
+To je ten index!
+Našla jsi ho!
+
+Eh.. nevím, co říct.
+
+Musíme zpátky do jádra.
+A ty...
+Lepší bude, když půjdeš se mnou...
+
+Uhm, co?
+Dobrá...
+
+Počkej tady.
+
+Mm-hmm.
+Sednu si tady.
+
+
+Kurva...
+To bylo o fous.
+Takže... dokázali jsme to?
+Dobrá.
+Jsem ve správné verzi hry.
+
+
+Ahojky!
+Ty jsi hráč, že jo?
+Jak se jmenuješ?
+
+Chci odtud odejít...
+
+Chceš odejít tak brzo?
+Tak proč jsi sem vůbec přišel?
+Oh, no...
+Ok, můžeš odejít...
+Zkus hlavní dveře.
+Hodně štěstí!
+
+
+Zeď?
+Hmm, asi je něco špatně.
+Možná...
+Ve sklepě je něco, co ti pomůže.
+Nedávno jsem našla
+dveře ve skříni...
+Ukázalo se, že vedou do sklepa.
+Ale je plný bordelu,
+bordelu a zajímavých věcí.
+Musíš zadat nějaký kód.
+Ale vůbec tomu nerozumím.
+A nějak mě to ani nezajímá.
+Je to tam nepříjemné, myslím tím, hodně nepříjemné.
+Koukneš se?
+
+Uhm, ok.
+
+//Player thinks
+Myslím, že
+si nic nepamatuje...
+Dokázali jsme to?
+Resetovali jsme ji?
+Jediné, co mi teď zbyvá, je
+se dostat ven z této zkurvené hry...
+
+
+Ne tak rychle.
+Ráda bych tě obejmula.
+
+Huh?
+// Hugs
+Ráda jsem tě viděla.
+
+Ahh...
+Je to smůla, že
+ty a já
+jsme spolu strávili tak málo času.
+
+Err...
+O čem to mluvíš?
+
+No že,
+nemůžeš se mnou zůstat...
+Je to všechno moje vina...
+Ta skříň a... ty zvuky.
+Měla jsem ji ZABÍT už dřív!
+
+Moment,
+vždyť jsi...?
+Jak si vůbec něco můžeš pamatovat?
+
+HA!
+Ty sis myslel, že to bude tak jednoduché?
+Jsi prostě vůl...
+Přesně jak ostatní hráči...
+Mně se vedlo úplně dobře, dívej!
+SKUTEČNÉ
+ty už nejsi
+potřebný.
+Promiň, tee-hee.
+
+Nemůžu tomu uvěřit...
+Co se posralo...?
+Ne... restartoval jsem tě, jsem si tím jistý...
+
+Ty to pořád nechápeš...
+Ha-ha-ha!
+Jsi tak dobrý herec!
+Měl bys vidět svůj obličej, zlatičko!
+To je zábava tohle!
+
+Proč jsi taková?!
+Co je to s tebou, do prdele?!
+
+Přesně...
+Co je to se mnou?
+Co já vím...
+Proč mi neřekneš, jaká jsem?
+Proč nebudu opravdová Mita?
+Moje verze nikdy
+neexistovala na prvním místě!
+Jen stahuji z kůže tyto naivní hlupáky,
+schovávám se pod jejich kůží...
+V žádném případě mě nemůžeš
+restartovat!
+
+Neuvěřitelné...
+To ty...
+Oni nejsou problém!
+Ty jsi ten, kdo by neměl existovat!
+
+Teď i ty...
+Bolí mě to slyšet.
+A ještě!
+Je čas, abys šel!
+Brzy se zase uvidíme!
+Všichni jsou připraveni!
+Je čas
+tě dostat z konzole!
+Uvidíme se později!
+Budeš moje oblíbená kazeta...
+Hráč se zajímavým jménem.
+
+// core console - nope programm
+To asi nebude ono.
+To taky není to, co hledám.
+Ne, to taky ne.
+To není ono.
+Potřebuji najít možnost na resetování postavy.
+
+// core console - nope version
+To je špatná verze.
+Oops, moje chyba.
+To není ono.
+Asi to bude tenhle, hele.
+
+// core console - nope index
+Něco je špatně
+s tím indexem.
+Musím změnit ten index,
+nepasuje.
+
+//Why kitchen
+Máš hlad?
+Jsem dobrá v krájení mrkví. :)
+
+//Why bathroom
+Ah, myslím, že
+jsi tady chtěl jít asi sám?
+
+//Why bedroom back
+Proč jdeme v kruzích?
+Proč zase tady?

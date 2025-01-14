@@ -1,0 +1,161 @@
+// Player thinks + Make coffee  
+Tak tohle sám asi neudělám.  
+Doufám, že ta Mita tady nekouše...  
+
+Zbytečně se tady zdržuju...  
+
+
+
+
+// Player tries to wake up MitaDreamer  
+Mito?  
+Mito, vstávat!  
+Mito!  
+
+Mito, wakey-wakey!  
+Potřebuji pomoct.  
+
+A kdo jssssiiii?  
+
+Pomoz mi prosím s těmi vypínači.  
+
+Jaké vypínače?  
+Nech mě spát...  
+Nebo mi udělej kávu.  
+
+Kafe? Co jsem jako, no nic no.  
+Mito?  
+Mi-ito!  
+
+
+
+// Player gives away the coffee  
+Mito,  
+tady máš kafe.  
+
+
+
+// MitaDreamer exercise  
+Vypínače,  
+povídáš?  
+
+Ano.  
+
+Jak o nich víš?  
+Ale, proč se vůbec ptám...  
+Vzhledem k tomu, že jsi tady,  
+asi toho už víš dost...  
+
+Jen minutku,  
+musím si sednout.  
+
+A dál?  
+
+Dál nic...  
+Musím pokračovat,  
+následovat prsten.  
+
+Máš její prsten?  
+Se nedivím,  
+že jsi našel tohle místo.  
+
+Přesně.  
+Takže, pomůžeš mi?  
+S těmi vypínači?  
+
+Jasně.  
+Pomůžu.  
+S vypínači...  
+
+
+Mito, notak...  
+Musíme jít.  
+
+Uh?  
+Dobrá.  
+Tak jdeme.  
+
+
+// MitaDreamer fall  
+Vstávej.  
+To jsi fakt tak ospalá?  
+
+// MitaDreamer again sleep  
+Vstávej.  
+Už jsem tady.  
+
+
+// Switches  
+Dobře,  
+jsem připravena.  
+
+Já taky.  
+
+Tak jo.  
+Odstartuju  
+odpočet.  
+A musíme společně, na tři.  
+Jasný?  
+
+Jen zůstaň vzhůru, PROSÍM!  
+ŠUP.  
+
+
+3  
+2  
+1  
+
+// Player lose 1  
+Jsi mimo?  
+Notak,  
+ještě jednou...  
+
+// Player lose 2  
+Ještě jednou?  
+Pro tvoji pomalou prdel,  
+já...  
+já tady usínám...  
+
+// Player lose 3  
+Jsi jak to kafe, k ničemu...  
+
+
+
+Pěkně,  
+děkuji ti, Mito.  
+
+Mm-hmm.  
+
+
+Ty dveře...  
+jsou tak...  
+pomalé...  
+
+
+Nic, jdu spát...  
+
+// Why kitchen?  
+Proč kuchyň?  
+Jestli usnu na studené podlaze,  
+je to tvoje chyba.  
+
+// Why bathroom?  
+Proč koupelna...  
+Potřebuješ na malou?  
+
+// Put button  
+Nic?  
+Tak k čemu tady je?  
+
+// Coffee  
+Ještě kávu?  
+Nebo mi tady zase usneš.  
+
+Co?  
+Neee...  
+To kafe se nedá pít...  
+Jsem v pohodě...  
+
+// Button  
+Mito? To tlačítko nefunguje... Slyšíš mě?  
+Haló?  

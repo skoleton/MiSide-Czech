@@ -1,0 +1,14 @@
+// Quest none  
+Raději nic.  
+// Quest "First"  
+Kde jsi byla?  
+Jak ses sem dostala?  
+Ta Mita teď, co je zač?  
+Jak vůbec funguje ten prsten?  
+Proč mě zlá Mita tak potřebuje?  
+Tohle je to Jádro hry?  
+// Quest "Second"  
+Co se děje?  
+Dá se nějak rozpoznat?  
+Co když zaútočíme na zlou Mitu?  
+Malí lidé 

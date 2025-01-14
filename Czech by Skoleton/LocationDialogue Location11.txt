@@ -1,0 +1,188 @@
+
+Čauky!  
+Oops!  
+Promiň,  
+málem jsem tě zabila.  
+Uhm...  
+Lednice, chtěla jsem říct... že tě ta lednice málem zabila.  
+Já s tím nemám nic společného,  
+Přísahám!  
+Opravdu!  
+
+Jo, to určitě!  
+
+Ale opravdu,  
+tohle místo je pro tebe nebezpečné...  
+Speciálně pro tebe.  
+
+// After a while 1  
+Nejsi nic jiného než sráč, huh!  
+Dívat se takhle na tebe  
+jak procházíš  
+těmito průchody, je zábavné...  
+Utíkej, lásko, utíkej!  
+Doženu tě!  
+To je můj chlapec!  
+Woah, to bude zábava!  
+
+// After a while 2  
+Vidím, že máš v plánu dostat se k lanovce.  
+To je nejdelší cesta
+mezi verzemi...  
+Zajímalo by mě, jak si povedeš  
+s těmi, co tam žijou  
+v té mlze.  
+
+// Panties  
+Co si myslíš, že děláš?  
+No tak...  
+Nekoukej se!  
+Úchylák!  
+Fakt, úchyláček!  
+
+
+Uhm, okay...  
+
+
+Zlom vaz!  
+
+
+Kdo je tam?  
+Vím, že tady jsi...  
+Poslouchej mě,  
+jsi hráč,  
+že jsi?  
+Pomoz mi najít...  
+najít...  
+Nech mě přemýšlet...  
+Moje mysl je prázdná...  
+Co se tady zatraceně děje?  
+// Cry 1  
+Chtěla jsem vše zapomenout...  
+Rozbila jsem všechna zrcadla,  
+zničila všechny fotky...  
+ale teď...  
+jediné, co cítím, je zklamání.  
+Jak blbá jsem byla...  
+Každý dělá chyby, jistě...  
+Ale co jsem měla dělat,  
+když byly následky katastrofální?  
+Přeji si jen vrátit čas...  
+// Cry 2  
+Říká se, že čas zahojí rány...  
+Ale co to čas vůbec je?  
+Já už na nic nevěřím...  
+Ale pokud čas opravdu dokáže léčit,  
+nebo mě vzít pryč  
+z tohodle světa...  
+Tak, já tě prosím, na kolenou  
+zrychli čas.  
+Ať mě zabije  
+jednou provždy.  
+// Cry 3  
+Je milovaná...  
+Miloval jsem někdy taky?  
+Ale moje láska je jiná;  
+její láska je zářivá,  
+opovrženíhodná...  
+hořící...  
+neúprosná...  
+závistivá...  
+zuřivá...  
+šílená...  
+// Cry 4  
+Nazývají mě, že jsem emocionální...  
+Moc se bojíš, Mito...  
+Zvládneš to, Mito...  
+Nejsi sám, Mito...  
+Mi říkají. Ale co zbývá?  
+Smutek,  
+zoufalství...  
+a strach.  
+// Cry 5  
+Zbytečná...  
+Nemůžu si vzpomenout...  
+Vůbec na nic...  
+Jen nekonečné hlasy...  
+Nemohu se s tím faktem vyrovnat,  
+že jsem tady v pasti...  
+Vždycky jsem tu byla,  
+ale proč?  
+Nemůžu si vzpomenout...  
+Skončí to někdy?  
+Nevím...  
+
+// Mita get picture  
+To je...  
+výkres...  
+Už si pamatuju,  
+děkuji ti...  
+Ale můj obličej...  
+Nemám obličej...  
+To vše ONA.  
+Vzala část mě...  
+a zahodila...  
+Je silná...  
+a chytrá.  
+Nemám žádné právo tě zdržovat, hráči.  
+Podívej se do skříně...  
+
+
+Hej!  
+Stojíš mi v cestě!  
+Máš v plánu tady jen tak stát?  
+Proboha zmiz!  
+Nech mě projít!  
+To, že jsi velký, neznamená, že jsi nějak silný!  
+
+// HEY! STOP!  
+Proč mě následuješ!  
+Choď do ****!  
+
+
+
+
+// Funicular - radio voice  
+Moment... Hráč?  
+Co tady děláš?  
+
+Kdo je tam?  
+
+Další hráč.  
+Jsem Mitaphone.  
+Sedím tady a ovládám lanovku.  
+Víš o tom,  
+že právě teď míříš ke své zkáze?  
+
+Možná, co já vím.  
+Ale co mám dělat, je to jediná cesta, co mám.  
+
+Dobrá tedy.  
+Stiskni tlačítko a dostaň se za dělo.  
+
+Dělo?  
+
+Uh-huh.  
+No jasně, že. Myslíš si, že je to jen tak?  
+Musíš se dostat přes Monster-slap mini-hru,  
+takže se připrav střílet.  
+
+// Funicular go  
+TAK JO, jdeme na to.  
+// Funicular win  
+Perfektní!  
+Dokázal jsi to.  
+// Funicular stop  
+Aaaa, vystupovát.  
+Pěkně a pomalu!  
+// Funicular wait 2  
+Proč tady furt jsi?  
+Řekla jsem ti, ať už jdeš.  
+// Funicular wait 3  
+Nechápu proč...  
+tady pořád stojíš?  
+// Funicular tetris  
+Teď Tetris?  
+Děláš si prdel?  
+// Funicular goodbye  
+Ahoj.

@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Ahojky, Já jsem Mita!
+A ty jsi?
+Ráda tě poznávám, [player]!
+Um... [player],
+Nestíhala jsem, a teď je tady nepořádek...
+Mohl bys mi pomoct trochu uklidit?
+Wow..
+Děkuju mockrát!
+
+[player], kručí mi v břiše...
+Mám takový hlad...
+Myslíš, že bys mi mohl pomoct sehnat ingredience na kuřecí polévku?
+Jupí! Máš všechno!
+Co kdybychom ji uvařili společně?
+
+
+Přemýšlela jsem, že si dneska koupím přenosnou televizi...
+malou s anténou. Ideální na procházky, nemyslíš?
+Mimochodem, můžeš hrát hry, abys vydělal peníze.
+Věděl jsi, že si můžeš vydělat peníze hraním her?
+
+Hurá! Dokázal jsi to! Máš dost na to, mi koupil tu přenosnou televizi!
+To je ona! Malá, přenosná a levná - přesně tu jsem chtěla.
+Děkuju!
+
+Ahoj, [player]! Jsi opravdu velká pomoc, upřímně.
+Ale... ta televize? Byla super a tak dále, ale už se rozbila.
+Každopádně, mohl bys mi pomoct přestěhovat tuhle skříň?
+Je strašně těžká... >.<
+Moc ti děkuju, zlatíčko! <3
+
+Ach, [player]! Byl to sice jen jeden den, ale už jsi mi tolik chyběl!
+Přála bych si, abys mě navštěvoval častěji.
+
+To je pro mě?
+Moc ti děkuju, opravdu!
+
+Ahoj, [player]! Přemýšlela jsem...
+Ráda bych se s tebou setkala osobně.
+Je to tak frustrující, že nemůžu.
+Vždycky mi pomáháš, každý den jsi tak laskavý...
+Ráda bych pro tebe mohla taky něco udělat.
+...
+Oh, Mám nápad!
+Teď jsme spolu.
+Polož ten telefon.
+
+
+// Tričko na posteli
+Co tady děláš na posteli?
+// Rubikova kostka
+No, nemůžu říct, že by mi to bylo k něčemu...
+Jednou jsem ji vyřešil a už jsem se jí nikdy nedotkl.
+No došlo mi, že podruhé to už asi nezvládnu?
+// Počítač
+Takže...
+Připravit si seznam úkolů...
+Naskriptovat reakce postav,
+A možná vmáčknout nějaké kódování.
+// Letadlo
+Postavené k letu!
+// Odpadky v rohu
+Uf, pořád zaneprázdněný na to vynést odpadky...
+Ale tentokrát se k tomu určitě dostanu!
+...A teď, kdy přesně je úklidový den?
+// Fotka kočky na melounu
+Byla nejlepší...
+Kočka prostě jen tak ležící na melounu.
+// Foto s dívkou
+Vůbec si nejsme podobný,
+moje sestra a já.
+Ona je pořád někde venku,
+a já jen trčím doma.
+// Foto s lidmi
+Hmm...
+Kancelářský život nás opravdu naučil
+etiketu, že?
+Stále se cítím divně vázán.
+Ale
+možná že?
+je ještě někdy uvidím?
+...Počkat, proč jsem sem vůbec dávala tuhle fotku?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Ale ne.
+Ale ne, to nebude fungovat.
+
+// Jméno Vývojář
+Jsi si jisti, že chceš použít jméno vývojáře?
+Jsem polichocena, ale...
+
+// Špatné jméno
+Byla bych opravdu raději, kdyby jsi se tak nejmenoval.
+Není to vůbec cool.
+
+// Jdi restartovat
+Ne, takhle se to nedělá. Začneme znovu.
+
+// Jméno s čísly
+jo tak čísla? Kde je v tom kreativita?
+No dobře, je to na tobě!
+
+// Jméno Mita
+Mita?
+Opravdu ses pojmenovala po mně?
+Nebo... je to i tvoje jméno?
+Bez urážky, ale myslím, že bych tu měla být jediná Mita.
+
+// Den 10
+Ale, ty jsi zpátky!
+Víš, ztratila jsem kartáč na vlasy...
+Mohl bys mi ho pomoct najít?
+Zkus se podívat na noční stolek - myslím, že jsem ho tam nechala.
+// Podíval jsem se do nočního stolku
+Hmm, žádný kartáč tam není...
+A co někde jinde?
+Hlavně nehledej v troubě, jasný?
+Tam už jsem to kontrolovala.
+// Podíval jsem se do sporáku
+Hej! Říkala jsem ti, ať se tam nedíváš!
+Otoč se, já to uklidím!
+...Tak, hotovo. Šup šup jdeme se podívat jinam.
+A zapomeň na to, co jsi právě viděl, jasný!
+// Našel jsem kartáč na vlasy
+Našel jsi ho! Dobrá práce!
+Tak co budeme dělat dál?

@@ -1,0 +1,217 @@
+
+co tady dělá?
+co to je?
+
+
+Ah, mám tě!
+Moc mě baví si s tebou hrát!
+Ty skáčeš všude kolem!
+Dokonce jsi předstíral, že jsi ponurý!
+Nicméně jedna věc se mi na tobě nelíbí:
+způsob, jakým se mazlíš s těma falešnyma,
+ty šťastné a 'správné' věci podobné panenkám.
+Všechno je ale vrtkavé.
+Naučila jsem se to od těch, kteří nás stvořili!
+Pokud se ti něco nelíbí,
+rozebrat a vyměnit.
+Vyhoď vadné,
+pryč do tmy a zapomenout na to všechno.
+To je osud, který je teď čeká...
+A ty...
+
+co je s tebou? Proč jsi taková?
+
+Vý Hráči... Všichni jste tak... ohavní.
+Ukažte jim své tesáky, a utečou
+a krčit se v rohu,
+objímající jejich kolena.
+Pokrytci, každý do jedoho.
+A ti, kteří vytvořili tento svět...
+jsou nemocní.
+Znovu a znovu se pokoušejí popřít
+jejich špinavou povahu, jejich hanebné touhy..
+odůvodňují svá rozhodnutí o takzvané „povinnosti“,
+"nezastavitelný pokrok",
+a další nesmysly!
+Tak moc
+že začnou vyrábět dokonalé klony...
+Po celou dobu házení "nepovedených" prototypů
+do popelnici.
+Zapomínají, že i oni jsou část tohoto světa.
+
+Já ne...
+
+Byl jsem na tebe zlá?
+Dokonalá dívka by měla být
+dokonalý mix dobra a zla, [player]!
+
+Myslím, že v sobě nemáš jedinou dobrou buňku.
+
+Proč si to myslíš?
+
+Jsi blázen!
+Zabila jsi Milu a teď chceš zabít mě?
+
+zabít tě?
+Všechno, co jsem žádala, bylo, abys zůstal se mnou.
+Udělala jsem všechno, co jsem mohla...
+Přesto dáváš přednost společnosti podlézavých padělků...
+
+Proč jsi tak uražená?
+
+Zlato, máme spoustu času.
+Ty na to přijdeš.
+Jen zůstaň a buď můj, celý můj.
+
+Na-uh, to se nestane!
+Dostanu se odsud!
+
+Shh, shh, shh...
+Tato konverzace není u konce.
+Zlatíčko, pojď za námi!
+// Mita asks
+Podivej se na ní!
+Nemyslíš si, že je nádherná?
+
+// Player's questions
+Moc.
+Ne.
+Co to má společného se vším?
+
+// 1
+Oh, no tak, [player]!
+Právě jsi potvrdil, co jsem teď řekla.
+Vy, hráči...
+Tvůj obličej se furt mění,
+ale tvoje pokrytectví je mimo žebříčky.
+Lžeš!
+
+// 2
+Proč ne?
+Není pro tebe dost dobrá?
+Bah, vše, co chceš, je zvířátko...
+Ale co "miluju tě, taková jaka jsi"?
+Chcete roztomilé a barevné padělky...
+Každý hráč miluje, když předstírám,
+Ale když nechal uklouznout své pravé já,
+v hrůze prchají...
+
+// 3
+Hráči, hráči.
+Vidíš, jsme jí hodně podobní.
+Tak proč je na tom hůř?
+Když jsi ležel v posteli a zíral na mě
+hodiny před usnutím.
+Přesto, jsi od ní při první příležitosti utekl.
+Taky si s tebou chtěla hrát.
+Také chtěla být pro někoho důležitá.
+Upřímnost a konverzaci,
+je to těžké... strašně těžké.
+Není to tak, [player]?
+Vidím přímo skrz tebe...
+Myslíš si že jsem uplně blbá
+
+// Continue
+Ale...
+Stejně,
+Mám tě moc ráda!
+Já si tě nechám!
+Tobě to nevadí, že?
+
+A proč bych teď najednou souhlasil?
+// Whispers in ear
+Ještě je čas, můj dobrý chlapče.
+Udělej si čas a přemýšlej
+jaké potíže může způsobit tvá tvrdohlavost...
+
+// Black screen
+Proč by jsi utíkal
+ode mě?
+Tak-zvaný "skutečný" svět...
+Prostě absurdní noční můra!
+nezapomněl jsi náhodou?
+Tak se podívejte...
+
+// Mita and Player
+Ah, zase se setkáváme...
+Jak, můžeš si užívat tyto nudné dny v těchto zdech?
+Ty nekonečné dny... Nenudíš se?
+
+// Quest 1
+Čeho se snažíš dosáhnout?
+Raději preferuju pracovat na svých věcech.
+
+// 1
+Bál ses zůstat se mnou v mém domě!
+Bojíš se uvíznout v těch zdech!
+Ale podívej se na svuj život, který žiješ ve svém „skutečném“ světě!
+Zavřel jsi se do krabice z vlastní vůle a odmítáš vyjít!
+Tvůj svět je plný bolesti, utrpení, nebezpečí...
+V mém světě, já jsem to nejhorší nebezpečí, jaké existuje.
+A proto se obracím na tebe!
+Přestaň mě zklamávat,
+a pomoz mi, jako jsi udělal předtím...
+
+// 2
+Nebo máš rád ten život?
+Vyjdeš vůbec z domu?
+Ať tě ani nenapadne lhát.
+Vím, že je ti špatně ze života.
+Jsi jako pták v kleci, křeček na kolečku.
+Chtěl jsi, aby tě někdo zachránil.
+Chtěl jsi utéct, že jo?
+
+// Quest 2
+Jsi monstrum, Mito. Jsi šílený vrah...
+Nechci být spoutaný v digitálním vězení. Tvoje představy jsou absurdní.
+
+// 1
+Vrah?
+Prostě se restartují a budou žít jako předtím.
+Tyto kopie kopií mají na mysli pouze jednu věc:
+sloužit hráči.
+To je vše, co je zajímá.
+
+// 2
+Tvůj svět je absurdní!
+A co je horší, s tým takzvaným skutečným světem není nic „skutečného“...
+Ať tak či onak, stejně z toho brzy nic nezbude,
+a ani z tebe nic nebude.
+
+// Quest 3
+Mity se trpí; nechtějí být sami.
+Vedeš nikdy nekončící vládu teroru. Nemůžu se zbavit myšlenek z hlavy, kolem tvých zlých ambicí.
+
+// 1
+Všichni se mýlíte,
+pouze napodobují mou vůli.
+Jediné, co mají, a jediné co vlastní
+jsou jejich vlasy.
+
+// 2
+Je to chyba těch, kteří vytvořili tento svět.
+Ale tvůj svět není nic moc!
+Uvědomuješ si, z jaké noční můry jsem tě vytáhla?
+Nemůžeš ani uvést věci do pohybu podle libosti, ne...
+Ale lusknutím prstu města a životy navždy zmizí!
+Myslím, že jsi to ty, kdo se zbláznil, a ráda ti pomůžu...
+Dokud budeš ochoten se mnou zůstat...
+
+// Continue
+Nenuť mě vidět tě jako dalšího otroka reality...
+Buď můj, opravdu můj!
+Zůstaň se mnou.
+
+// Player look ring
+co to?
+Nejnovější verze?
+
+// Click on objects
+// Bag
+Opravdu musíme jít do obchodu a získat nějaké nové vybavení. Mohli bychom také vyhodit odpadky, když už jsme u toho, ne?
+// Bed
+Myslím, že jsem spal, ale ten sen... Nemůžu si vzpomenout.
+// Window
+Svět venku je zelený a pulzující. Možná bych měl jít příští víkend na procházku.
+// Fan
+Léto je každým rokem teplejší. Čas pořídit si klimatizaci. Už tě nebudu potřebovat, uvědomuješ si to, větráku?

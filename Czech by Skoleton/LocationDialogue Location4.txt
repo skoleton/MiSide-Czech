@@ -1,0 +1,400 @@
+Mito?
+Ale, konečně vzhůru?
+Jak ses sem dostala?
+Však jsi byla teď vedle mě...
+
+Ne, nebyla jsem.
+Tak trošku jsi zmrzl před zrcadlem.
+Tak jsem odešla.
+Proč se ty pokoje změnily? To už halucinuju!?
+
+Ne! Já je změnila,
+aby ses cítil lépe.
+Ono,
+my můžeme měnit místnosti,
+jak se nám zlíbí.
+
+Jakoby, nemusela jsi.
+Už jsem si na to začínal zvykat.
+Ale i přes to si myslím, že se budeš cítit takhle lépe.
+// Mita card game
+Takže,
+zahrajeme si?
+Hra funguje takhle:
+Tahle mince ukazuje typ,
+jako je srdce:
+Oba budeme hrát na kartu,
+a když budeš mít větší
+počet srdcí
+než moje,
+tak vyhráváš.
+Vem si karty.
+Jedu já.
+No teda!
+To mám ale karty!
+Tak jo, jedu!
+
+
+
+
+
+
+
+
+
+OK!
+Jsi na řadě!
+Uh-huh.
+Šup, hraj!
+
+Větší počet srdcí vyhrává!
+Teď se zaměř jen na útok!
+A teď obrana!
+
+
+Vyhrál jsi!
+Vyhrál jsi!
+Dostal jsi mě.
+ALE ALE...
+
+Vyhrála jsem!
+Výhra je moje!
+Vyhrávám já!
+Hah, dostala jsem tě!
+
+Remíza.
+Je to remíza!
+Tak tohle je remíza!
+Stejný počet...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Co to je za zvuk?
+Jde to ze skříně.
+
+Zvuk?
+Jaký zvuk?
+Já nic neslyšela.
+Co jsi slyšel?
+
+Klepání, jako kdyby tam někdo byl.
+
+Ale...
+Tam nikdo není...
+
+Chci se do ní podívat.
+Trochu mě to děsí.
+
+Ale proč...?
+Už zase tohle...
+
+
+
+
+
+
+
+Co je to s tebou!?
+Je to skříň...
+Mám tam své kalhotky...!
+
+Něco mi skrýváš?
+
+Proč mi prostě nevěříš?
+Co dělám špatně?
+Jediné co chci...
+Jediné co chci, aby jsi byl se mnou.
+
+To já také, ale...?
+
+Proč jsi tak zažraný do té skříně?!
+
+Protože chci do prdele vědět, co bylo za ťukání!
+
+Je to kvůli tomu, že
+tenhle svět
+má jenom tyhle čtyři místnosti?
+Je to pro tebe málo?
+Proč se mnou nechceš zůstat?
+
+
+// Don't stay with Mita
+Chápu.
+Už zase tohle...
+Když tak chceš tu skříň tak moc než mě,
+tak prosím,
+a zjisti, co tam je!
+
+
+
+
+Co to kur...
+
+Joo, to se stává.
+Místnost se zasekla v načítání.
+Počkej chvilku.
+
+Tak to bylo dost divný.
+To jsem uvnitř někoho telefonu?
+Nějaký pomalejší, s dlouhým nahráváním?
+
+To vůbec.
+Ale ne všechno je perfektní
+v tomhle světě...
+Se všechno načítá, i my
+společně s jádrem hry.
+
+Jádrem hry?
+
+Normálně, však pracuješ jako IT?
+
+
+
+Nicméně, můžeme si
+zahrát na psku
+nebo karty.
+Je to na tobě.
+
+
+
+// Mita play fight
+Chceš přes prdel? >.<
+Jak tedy hrát, musíš vyhrát
+čtyřikrát.
+Tak pojď!
+Neboj se,
+půjdu na tebe pomalu ze začátku.
+
+
+Tak takhle.
+Teď si dej bacha!
+
+Jeej!
+Dobře, okay.
+Tak teď zapínám ovladač. >.<
+
+No teda!
+Tak uvidíme teď.
+Nenechám se!
+
+Ty jsi
+prostě
+profík! Ty už jsi to někdy hrál, že!
+
+
+Ale, nevadí.
+Teď mi určitě ukážeš.
+
+Ale notak,
+to je vše?
+
+Opři se do toho,
+nebo se už nezvedneš!
+
+Co se děje?
+Jsem s tebou úplně vymetla.
+To jsi fakt tak špatný—
+nebo jsi mě jen nechal vyhrát!
+
+
+No nic.
+Co takhle karty?
+Jsou v ložnici.
+
+
+
+// Door > [ERROR]
+Huh, co se to děje?
+Kde...
+
+Uh-oh.
+Promiň...
+Stáhla jsem něco
+z webu.
+Chtěla jsem to trochu
+vylepšit zvenčí.
+Ale vypadá to,
+že je něco špatně v souborech.
+Pak se na to kouknu.
+
+To je to, proč nemůžeme jít ven?
+Ano, přesně tak.
+// Mita shy
+Copak?... >.<
+Co se to s tebou děje? >.<
+Potřebuješ něco? >.<
+
+
+
+// Wall Clock
+Tyhle hodiny,
+jaký ukazují čas?
+Aktuální čas ve hře?
+Nebo jsou synchronizované s mým telefonem?
+
+No, uhm...
+Popravdě vůbec nevím.
+Ale na času tady vůbec nezáleží...
+I když je pozdě nebo brzy,
+silná holka jako já
+je plná energie—
+Nikdy se necítím unavená!
+Můžeme mít nekonečné ráno,
+nebo nikdy nekončící večer!
+
+To je zajímavé...
+ale i strašidelné.
+Zaseknutí v jednom momentu, navždy...
+
+
+
+// Photos of Mita
+Nice pics. Hele
+Hadám, že budou asi tvoje?
+
+Yop.
+Líbí se mi, také.
+
+Kdo tě fotil?
+Je tu ještě někdo jiný, než ty?
+
+Dalo by se říct.
+Seznámím tě.
+Ale ne teď.
+Prozatím chci být s tebou o samotě.
+
+
+
+
+// Portal
+Kde ten portal zmizel?
+Nebo jak to nazýváš?
+
+Použila jsem
+malé kouzlo
+a přesunula
+někam jinam.
+Už jej nebudeme potřebovat.
+Jen by překážel.
+
+
+// Mirror in the bedroom
+Dívat se do zrcadla bez toho
+abych se viděl, je jiný trip.
+
+Můžu zapnout odrazy,
+jestli opravdu chceš.
+Ale, opravdu je potřebujeme?
+
+Ne, nepotřebujeme...
+Od čeho tím pádem je zrcadlo, že?
+
+To ano.
+Chápu, ale jsi ve hře.
+Takže odrazy zabírají nejvíce procesoru.
+Všechno je pak pomalé, a je to jak kdybys se díval na anime.
+
+Lepší přirovnání bude,
+jak zadrhávání ve hrách. Hah, já vlastně jsem v jedné...
+
+Hej, [player],
+ty opravdu máš rád zrcadla, že jo?
+Strach vidět svůj vlastní smích?
+
+Ehm? Ne tak úplně...
+Já jen
+jsem furt nějak vedle.
+
+
+
+// Blue sneakers
+To jsou tvoje?
+
+Ne, jsou tvoje. >.<
+Nepamatuješ?
+
+Nepamatuji, že bych měl takové tenisky.
+
+Teď už jo.
+Můžeš si je vzít,
+jak půjdeme ven.
+
+A co oblečení?
+Všechno, co mám,
+jsou ty, co mám teď na sobě.
+Nějaká možnost mít nové?
+
+Jasně, že jo.
+Jakoby, viděla jsem co nosíš—
+a popravdě, nic moc teda.
+Nicméně, pomůžu ti sehnat nové.
+Ale ne hned teď.
+Slibuji.
+
+Dóbroš.
+
+
+// Games on TV
+Tak co dáme?
+// Game milk
+Tohle je taková Tekkenovka!
+Uvidíme, kdo zůstane první!
+Je to dobrá hra!
+Už dost těch krabic od mléka, něco jiného.
+// Game penguins
+V téhle hře, jsi prostě tučňák,
+který klouže okolo mapy.
+Oka, jdeme na to.
+
+// Stay with Mita
+Huh, co?
+Opravdu? Já myslela, že...
+Jsem strašně ráda!
+A taky zmatená...
+Ale...
+Prosím, zůstaň tady se mnou—
+napořád a navždy.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+Je to úplně pro tupce:
+prostě sbírej sněhové koule.
+Ten, kdo posbírá nejvíc, no tak vyhrál!
+Zahrajeme dvě hry, okay?!
+// The first map
+Wow, a to jsi jak nazbíral?
+Tee-hee! Mám víc než ty!
+Měl bys maknout!
+Ha, 1:1!
+// The second map
+Jsi fakt dobrý tučňák!
+Měli bych tě dát na pravý led!
+Pfft, jsi pomalý.
+Pořád si nevíš rady?
+Woah, remíza! Tak to se moc nestává!
+// The game is over
+Oka, něco dalšího?
+Nebo konec?
+
+// Tetris - Mita
+K čemu to potřebuješ?
+Jsi až takový hráč?

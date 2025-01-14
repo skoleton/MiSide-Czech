@@ -1,0 +1,132 @@
+Stisknout
+Mluvit
+Nasadit si prsten
+Hledat tlačítko
+Držet
+Vstát
+Vzít si prsten
+Smazat hru
+Ukončit
+Stiskněte tlačítko
+Zastavit
+Běh
+Otevřít zprávu
+Stáhnout aplikaci
+Spustit aplikaci
+Mluvit
+
+Vzít baterii
+
+Podíváte se
+Položit 
+Předat nůžky
+Odmítnout
+Sníst
+Postavit se
+Zkusit vstát
+Vzít si prášky
+Vzít si omáčku
+Vzít si karty
+Podívat se na karty
+schovat karty
+Vpravo
+Vlevo
+Hrát kartu
+Zůstat
+Odmítnout
+
+Kazetky
+Otevřít
+
+Vypít džus
+Odmítnout
+
+Pohyb vpravo
+Pohyb vlevo
+Skok
+Přikrčit se
+Útok
+
+Otočit se doprava
+Otočit se doleva
+Lehnout si
+
+Uvolnit
+
+Probudit se
+Posadit se
+Postavit se
+Zapnout počítač
+Vzít si polévku
+Dokončit
+Jít spát
+
+Najdi další hádanky
+
+Jen do toho
+Radějí ne
+
+Já vím
+Nevím
+Udeřit slabě
+udeřit silně
+Zatlačit!
+
+Vlevo
+Uprostřed
+Vpravo
+
+Vpravo
+Vybrat
+Vlevo
+
+Ještě jeden
+Dost
+
+Interfere
+
+Zatáhnout za páku
+
+Zvolit pravou
+Zvolit vlevou
+
+Otočit doprava
+Otočit doleva
+Skok
+Otevřít dveře
+
+Zvolit hru
+Ukončit hru
+Pokračovat
+Hrát
+
+
+Zavřít dveře
+
+Vpravo
+Vlevo
+Dolů
+Nahoru
+
+Krok zpět
+Stisknout tlačítko
+
+Jíst
+Pít
+Vzít si placičku
+Vzít si chléb
+Přidat mléko
+Přidat cukr
+Přidat mouku
+Přidat olej
+Přidat vejce
+Promíchat
+Přidat směs
+Obrátit
+Příliš mnoho
+
+Vypadají dobře
+No, radějí ne
+
+Mluv se mnou
+Není potřeba.

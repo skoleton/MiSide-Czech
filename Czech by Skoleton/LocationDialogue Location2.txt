@@ -1,0 +1,9 @@
+// Player start  
+Kde to jsem?  
+Tohle místo poznávám.  
+Počkej... Já jsem v té hře?  
+// Player try open the door  
+Zamčeno? to tady teď budu jako zamčený?
+// Player in dark  
+Je tu strašná tma.  
+Vidím úplné hovno...
