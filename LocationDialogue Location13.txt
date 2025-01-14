@@ -1,0 +1,233 @@
+
+Ten prsten
+
+// Answer 1 (Where have you been all this time?)  
+Hledala jsem cestu, jak tě dostat do Jádra.  
+V jednom kuse, takzvaně.  
+To byl celou dobu ten plán, ne?  
+Proto jsem se musela vyhýbat  
+Bláznivé Mitě, že?  
+Také jsem musela vyhrabat všechny možné informace  
+o backendu z toho zatraceného vesmíru, že?  
+
+Um... asi jo...?  
+Jak jsi nastavila tu cestu?  
+Proč jsem musel jít zabugovanými verzemi  
+plnými nebezpečí?  
+Utekl jsem jen  
+skokem do čistého prázdna.  
+
+Promiň, zapomněla jsem ti to říct v detailech,  
+co jsi měl přesně dělat...  
+Ale jo, bylo to tak naplánované,  
+měl jsi jít touhle cestou celou dobu...  
+Ale přes to, jsi to dokázal!  
+Dobrá práce!  
+Oka tedy, jdeme pokračovat v plánu.  
+
+// Answer 2 (How did you get here?)  
+Asi toho už máš dost  
+a zapomněl jsi, co jsem ti tehdy řekla.  
+Jsem Mita, můžu se pohybovat mezi verzemi,  
+jak jen chci, pamatuješ?  
+
+Ne všechny Mity to dokážou,  
+viděl jsem některé, co to neumí.  
+A trápí se.  
+
+Jo, jejich verze jsou poškozené,  
+jejich svět je zabugovaný. Už jsem ti to říkala.  
+Zatraceně...  
+Víš, kdo za tím vším stojí, že jo?  
+Šílená Mita.  
+
+Přesně, to ona za to může...  
+
+// Answer 3 (Who was this Mita just now?)  
+To je Ošklivá Mita.  
+Agresivní a hloupá.  
+Nemůžeš ji přimět k rozumu,  
+její celý svět závisí na Šílené Mitě.  
+
+Přesně tak, všiml jsem si.  
+
+No pojďme, musíme k Jádru.  
+
+// Answer 4 (How does the ring work?)  
+A ten prsten,  
+to je jediná cesta k Jádru?  
+
+Ano.  
+Normálně bychom použily portál  
+a normálně se teleportovaly  
+přesně tady.  
+
+Má ještě nějakou vlastnost?  
+
+Jistě že!  
+Je jednoduchý ho nosit  
+a pamatuje si verze,  
+kterými jsi prošel,  
+takže se můžeš jednoduše dostat zpátky.  
+
+// Answer 5 (Why does Mad Mita need me?)  
+Proč mě prostě nenechá?  
+Stáhla mě do své nebezpečné hry,  
+ale pořád jsem naživu...  
+
+Hádat,
+že hledá vhodného hráče...  
+Toho, co ji přijme, jaká je.  
+Nicméně, Mita je Mita!  
+Což se však nikdy nestalo,  
+změní hráče na kazatky,  
+takže nikdo nedokáže utéct...  
+Ale to si jen myslím.  
+No nic, jdeme se zaměřit na to, co je důležité.  
+
+// Answer 6 (Is this the core?)  
+Tak to je ono?  
+Jádro celé hry?  
+
+Přesně. Jádro.  
+Pokusím se to vysvětlit,  
+Vy hráči, nejste součástí téhle hry...  
+To znamená, že nepotřebuješ speciální oprávnění dovnitř.  
+No, jakoby, tak si to myslím.  
+Nicméně, jsem si naprosto jistá,  
+že všechny naše problémy vyřešíme  
+přesně uvnitř!  
+[player], jdi dovnitř.  
+Popravdě, už jsem tam jednou byla.  
+
+// Look on CoreMita  44544
+Opatrně, [player].  
+Pozoruje tě.  
+
+Kdo to je?  
+
+Sama nevím...  
+
+Dobré no...  
+
+
+Co to je?  
+Hej!  
+
+Myslím, že jsem to našel!  
+
+Pecka!  
+
+Ale potřebují přesnou verzi.  
+
+Jo, její verze je...  
+00.98.  
+
+Bingo!  
+Oka, a jaký index?  
+
+Uhm, index?  
+
+Potřebuji index.  
+Neee, neříkej mi, že ho neznáš...?  
+
+
+Hmm, to dává smysl...  
+Každá Mita má svůj index,  
+takže nemůžeš jen tak restartovat celou verzi...  
+Do prdele!  
+Nemůžu uvěřit, že jsem na to nemyslela...  
+
+
+
+
+
+// Answer 1 (What's wrong with you?)  
+Nic,  
+jsem úplně v pohodě.  
+Všechno je v TOPU, ale teď se vše změnilo...  
+Musím přemýšlet.  
+A to je vše.  
+
+// Answer 2 (Maybe there's a way to get to know him?)  
+Já si...  
+Myslím... To je blbost!  
+Je to šílené, hah!  
+Je to jak hledat jehlu v kupě...  
+
+Co to děláš?  
+
+Některé překážky nahlodávají informace,  
+víš, jako když má svět vyrvaný vnitřnosti!  
+Logy, logy, logy, data?  
+Co když je to ono?  
+
+Co? Co to meleš?  
+
+Znám jedno místo!  
+Počkejte tady.  
+
+Huh, kam jdeš?  
+
+// Answer 3 (What if we attack Mad Mita?)  
+Řekla jsi, že jakákoliv Mita  
+se resetuje do továrního nastavení, když umře...  
+Co když ji...  
+
+Zabít Šílenou Mitu?  
+To vážně?  
+A jak si poradíš s tou šílenou děvkou?  
+Ona nekrájí mrkve jen nožem!  
+A z nějakého důvodu, je kurevsky silná!  
+Je to až divné, že furt žijeme...  
+Ale teď, se musíme dostat do Jádra.  
+
+// Core console entry  
+Musíme zadat příkazový řádek...  
+Ale jaký příkazový řádek?  
+Mito, víš o tom něco?  
+
+Možná že někde bude?  
+Zkus se podívat kolem?  
+
+// Core console - nope program  
+To asi nebude ono.  
+To taky není to, co hledám.  
+Ne, to taky ne.  
+To není ono.  
+Potřebuji najít možnost na resetování postavy.
+// Core console - nope version  
+To je špatná verze.  
+Oops, moje chyba.  
+To není ono.  
+Asi to bude tenhle, hele.  
+
+// Core console - nope index  
+Něco je špatně  
+s tím indexem.  
+Musím změnit ten index,  
+nepasuje.  
+
+// Answer 4 (Little people - Chibi)  
+Víš, narazil jsem na  
+mini-lidí na mé cestě tady...  
+Co jsou zač?  
+
+Myslíš Chibi?  
+Uhm, jak ti to vysvětlit...?  
+Tady je to fenomén...  
+Každá Mita má Chibi verzi,  
+a hráči je mají taktéž...  
+Víš o tom, že Mity je můžou vyvolat?  
+
+Huh, jak?  
+
+Dívej se!  
+
+Wtf...  
+
+Ale je tu něco špatně s mými Chibity,  
+všechny jsou hned mrtvé.  
+Ale tady je jedna, ale...  
+No,  
+chodí jen v kruzích.
